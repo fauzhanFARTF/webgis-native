@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "point_meninggal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LATITUDE": -6.2601279970599997, "LONGITUDE": 106.40252951799999, "KECAMATAN": "CISOKA", "PEMERINTAH": "DESA", "DESA_KEL": "KARANGHARJA", "MENINGGAL": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.40253, -6.26013 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.2159630917499999, "LONGITUDE": 106.59671988, "KECAMATAN": "KELAPA DUA", "PEMERINTAH": "KELURAHAN", "DESA_KEL": "BENCONGAN", "MENINGGAL": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 106.59672, -6.21596 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.2610669970600004, "LONGITUDE": 106.597556518, "KECAMATAN": "KELAPA DUA", "PEMERINTAH": "KELURAHAN", "DESA_KEL": "BOJONG NANGKA", "MENINGGAL": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.59756, -6.26107 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.3027017777900003, "LONGITUDE": 106.63390580399999, "KECAMATAN": "PAGEDANGAN", "PEMERINTAH": "DESA", "DESA_KEL": "PAGEDANGAN", "MENINGGAL": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.63391, -6.3027 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.1574287807300001, "LONGITUDE": 106.57511662500001, "KECAMATAN": "PASAR KEMIS", "PEMERINTAH": "KELURAHAN", "DESA_KEL": "KUTA BARU", "MENINGGAL": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.57512, -6.15743 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.1296229970600002, "LONGITUDE": 106.608065518, "KECAMATAN": "SEPATAN TIMUR", "PEMERINTAH": "DESA", "DESA_KEL": "KEDAUNG BARAT", "MENINGGAL": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.60807, -6.12962 ] } }
+]
+}

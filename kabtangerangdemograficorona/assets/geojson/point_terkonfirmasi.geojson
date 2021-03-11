@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "point_terkonfirmasi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LATITUDE": -6.1987916700300003, "LONGITUDE": 106.435394183, "KECAMATAN": "BALARAJA", "PEMERINTAH": "DESA", "DESA_KEL": "TOBAT", "TERKONFIRM": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.43539, -6.19879 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.2020441782400004, "LONGITUDE": 106.51907420400001, "KECAMATAN": "CIKUPA", "PEMERINTAH": "DESA", "DESA_KEL": "PASIR GADUNG", "TERKONFIRM": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.51907, -6.20204 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.3297075324199996, "LONGITUDE": 106.643638254, "KECAMATAN": "CISAUK", "PEMERINTAH": "DESA", "DESA_KEL": "CIBOGO", "TERKONFIRM": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.64364, -6.32971 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.24699010463, "LONGITUDE": 106.579077441, "KECAMATAN": "CURUG", "PEMERINTAH": "KELURAHAN", "DESA_KEL": "BINONG", "TERKONFIRM": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.57908, -6.24699 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.2667015324199999, "LONGITUDE": 106.56236225400001, "KECAMATAN": "CURUG", "PEMERINTAH": "DESA", "DESA_KEL": "CURUG WETAN", "TERKONFIRM": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.56236, -6.2667 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.2188398601100001, "LONGITUDE": 106.60593315200001, "KECAMATAN": "KELAPA DUA", "PEMERINTAH": "KELURAHAN", "DESA_KEL": "BENCONGAN", "TERKONFIRM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 106.60593, -6.21884 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.2624576492499999, "LONGITUDE": 106.590029425, "KECAMATAN": "KELAPA DUA", "PEMERINTAH": "KELURAHAN", "DESA_KEL": "BOJONG NANGKA", "TERKONFIRM": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 106.59003, -6.26246 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.2339565324199997, "LONGITUDE": 106.61135925400001, "KECAMATAN": "KELAPA DUA", "PEMERINTAH": "KELURAHAN", "DESA_KEL": "KELAPA DUA", "TERKONFIRM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 106.61136, -6.23396 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.2377925324200003, "LONGITUDE": 106.628406254, "KECAMATAN": "KELAPA DUA", "PEMERINTAH": "KELURAHAN", "DESA_KEL": "PAKULONAN BARAT", "TERKONFIRM": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.62841, -6.23779 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.0891994260500004, "LONGITUDE": 106.705384268, "KECAMATAN": "KOSAMBI", "PEMERINTAH": "KELURAHAN", "DESA_KEL": "D A D A P", "TERKONFIRM": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.70538, -6.0892 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.2811435324199998, "LONGITUDE": 106.63272525399999, "KECAMATAN": "PAGEDANGAN", "PEMERINTAH": "DESA", "DESA_KEL": "LENGKONG KULON", "TERKONFIRM": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 106.63273, -6.28114 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.2667075324199999, "LONGITUDE": 106.610563254, "KECAMATAN": "PAGEDANGAN", "PEMERINTAH": "KELURAHAN", "DESA_KEL": "MEDANG", "TERKONFIRM": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.61056, -6.26671 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.2957228186599998, "LONGITUDE": 106.626872116, "KECAMATAN": "PAGEDANGAN", "PEMERINTAH": "DESA", "DESA_KEL": "PAGEDANGAN", "TERKONFIRM": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 106.62687, -6.29572 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.1655965324200004, "LONGITUDE": 106.571107254, "KECAMATAN": "PASAR KEMIS", "PEMERINTAH": "DESA", "DESA_KEL": "GELAM JAYA", "TERKONFIRM": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.57111, -6.1656 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.1738675324200001, "LONGITUDE": 106.557361254, "KECAMATAN": "PASAR KEMIS", "PEMERINTAH": "KELURAHAN", "DESA_KEL": "KUTA BUMI", "TERKONFIRM": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.55736, -6.17387 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.1539265324199999, "LONGITUDE": 106.50275025400001, "KECAMATAN": "SINDANG JAYA", "PEMERINTAH": "DESA", "DESA_KEL": "SINDANG JAYA", "TERKONFIRM": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.50275, -6.15393 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.2881825324199996, "LONGITUDE": 106.42486125400001, "KECAMATAN": "SOLEAR", "PEMERINTAH": "DESA", "DESA_KEL": "PASANGGRAHAN", "TERKONFIRM": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.42486, -6.28818 ] } },
+{ "type": "Feature", "properties": { "LATITUDE": -6.27751653242, "LONGITUDE": 106.49552325400001, "KECAMATAN": "TIGARAKSA", "PEMERINTAH": "DESA", "DESA_KEL": "MARGA SARI", "TERKONFIRM": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 106.49552, -6.27752 ] } }
+]
+}

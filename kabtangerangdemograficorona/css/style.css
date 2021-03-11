@@ -1,0 +1,73 @@
+.navbar {
+    padding-top:10px;
+   padding-bottom:10px; 
+}
+.navbar-inverse {
+    background-color: #232227;
+    border-color:  #ff7800;
+    font-size:18px;
+}
+.navbar-inverse .navbar-brand{
+    color: #fff;
+    float:left;
+    margin-right: 20px;
+}
+.navbar-inverse .navbar-brand:hover{
+    color: #654b8d;
+    background-color: rgba(255, 255, 255, 0.856);
+    border-color:rgba(255, 255, 255, 0.856) ;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+  }
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+    color:  #654b8d;
+    background-color: rgba(255, 255, 255, 0.856);
+    border-color:rgba(255, 255, 255, 0.856) ;
+  }
+
+.navbar-brand > img {
+    display: block;
+    width : 115px;
+    height :auto;
+    float:left;
+    margin : -16px 20px 0px 0px; 
+  }
+
+.btn-kabtang {
+    color: #fff;
+    background-color: #654b8d;
+    border-color: #654b8d;
+  }
+
+body{
+    padding-top:71px;
+    font-family: 'Rockwell';
+}
+footer {
+     margin: 50px 0px;
+     font-family: 'Lakki Reddy';
+}
+
+#iconeye{
+    position : relative;
+    z-index : 1;
+    left:90%;
+    top:-25px;
+    cursor : pointer;
+}
+h1{
+  font-family: 'Lakki Reddy';
+}
+#jam-analog{
+  text-shadow: 0px 0px 0px ;
+  font-family: 'Rockwell';
+  color : #fff;
+  margin-top:10px;
+  margin-right:40px;
+}
+
+
