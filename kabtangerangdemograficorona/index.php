@@ -82,7 +82,7 @@ $kelurahan = [
                     <span class="icon-bar"></span>
                 </button>
                <!--<a class="navbar-brand" href="index.php"> <img class="navbar-brand-image" src="images/logodiskominfokab.png"> Peta Sebaran Covid 19 Kabupaten Tangerang </a>  -->
-               <a class="navbar-brand" href="index.php"> <img class="navbar-brand-image" src="images/logodiskominfokab.png" > Peta Sebaran Covid 19 Kabupaten Tangerang </a> 
+               <a class="navbar-brand" href="index.php"> <img class="navbar-brand-image" src="images/logodiskominfokab.png" > Peta Demografi Kependudukan Kabupaten Tangerang</a> 
               </div>
             <!-- End Brand and toggle get grouped for better mobile display-->
             <!-- Start Collect the nav links, forms, and other content for toggling -->
